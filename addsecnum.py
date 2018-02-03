@@ -8,8 +8,19 @@ if len(filename)<8:
 	print 'filename at least 8 chars'
 	sys.exit(1)
 
+
+def insertSectnum(text):
+	'text是immutable的，所以需要返回'
+	match='====\n'
+	titleEndAt=text.index(match)+len(match)
+	leftText=text[:titleEndAt]
+	rightText=text[titleEndAt:]
+	text=leftText+'.. sectnum::'+"\n"+rightText
+	return text
+
 f = open(filename,'r+')
-text='.. sectnum::' + "\n\n\n" + f.read()
+text=f.read()
+text=insertSectnum(text)
 f.truncate(0) #先清空，否则在后面追加
 f.seek(0)#跳到开始位置
 f.write(text)

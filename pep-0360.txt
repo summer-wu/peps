@@ -10,6 +10,10 @@ Created: 30-May-2006
 Post-History:
 
 
+
+.. sectnum::
+
+
 .. warning:: No new modules are to be added to this PEP.  It has been
              deemed dangerous to codify external maintenance of any
              code checked into Python's code repository.  Code

@@ -12,6 +12,10 @@ Post-History: 2011-06-28
 Resolution: http://bugs.python.org/issue12345
 
 
+
+.. sectnum::
+
+
 Abstract
 ========
 

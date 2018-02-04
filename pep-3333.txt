@@ -12,6 +12,10 @@ Post-History: 26-Sep-2010, 04-Oct-2010
 Replaces: 333
 
 
+
+.. sectnum::
+
+
 Preface for Readers of PEP \333
 ===============================
 

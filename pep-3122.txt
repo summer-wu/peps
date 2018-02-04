@@ -9,6 +9,10 @@ Content-Type: text/x-rst
 Created: 27-Apr-2007
 Post-History:
 
+
+
+.. sectnum::
+
 .. attention::
    This PEP has been rejected.  Guido views running scripts within a
    package as an anti-pattern [#guido-rejection]_.

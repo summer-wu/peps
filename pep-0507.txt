@@ -11,6 +11,10 @@ Post-History:
 Resolution: https://mail.python.org/pipermail/core-workflow/2016-January/000345.html
 
 
+
+.. sectnum::
+
+
 Abstract
 ========
 

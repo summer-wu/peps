@@ -13,6 +13,10 @@ Post-History: 24-Oct-2011, 28-Oct-2011, 06-Mar-2012, 24-May-2012
 Resolution: https://mail.python.org/pipermail/python-dev/2012-May/119668.html
 
 
+
+.. sectnum::
+
+
 Abstract
 ========
 

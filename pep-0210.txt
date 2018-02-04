@@ -12,6 +12,10 @@ Post-History:
 
 
 
+.. sectnum::
+
+
+
 ..
   Local Variables:
   mode: indented-text

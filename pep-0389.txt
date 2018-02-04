@@ -11,6 +11,10 @@ Python-Version: 2.7 and 3.2
 Post-History: 27-Sep-2009, 24-Oct-2009
 
 
+
+.. sectnum::
+
+
 Acceptance
 ==========
 This PEP was approved by Guido on python-dev on February 21, 2010 [17]_.

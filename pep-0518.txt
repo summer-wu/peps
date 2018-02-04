@@ -17,6 +17,10 @@ Post-History: 10-May-2016,
 Resolution: https://mail.python.org/pipermail/distutils-sig/2016-May/028969.html
 
 
+
+.. sectnum::
+
+
 Abstract
 ========
 

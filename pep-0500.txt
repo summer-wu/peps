@@ -12,6 +12,10 @@ Requires: 495
 Created: 08-Aug-2015
 Resolution: https://mail.python.org/pipermail/datetime-sig/2015-August/000354.html
 
+
+
+.. sectnum::
+
 Abstract
 ========
 

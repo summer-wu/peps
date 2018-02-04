@@ -9,6 +9,10 @@ Content-Type: text/x-rst
 Created: 28-Jul-2005
 Post-History:
 
+
+
+.. sectnum::
+
 .. |2.x| replace:: 2.5
 
 .. note:: This PEP has been rejected [#rejected]_.

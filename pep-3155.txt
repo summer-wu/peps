@@ -12,6 +12,10 @@ Post-History:
 Resolution: https://mail.python.org/pipermail/python-dev/2011-November/114545.html
 
 
+
+.. sectnum::
+
+
 Rationale
 =========
 

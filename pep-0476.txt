@@ -9,6 +9,10 @@ Content-Type: text/x-rst
 Created: 28-August-2014
 Resolution: https://mail.python.org/pipermail/python-dev/2014-October/136676.html
 
+
+
+.. sectnum::
+
 Abstract
 ========
 

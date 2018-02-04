@@ -10,6 +10,10 @@ Created:
 Python-Version: 2.1
 Post-History: 11-Jan-2001
 
+
+
+.. sectnum::
+
 Motivation
 ==========
 

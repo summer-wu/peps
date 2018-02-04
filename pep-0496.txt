@@ -9,6 +9,10 @@ Type: Informational
 Content-Type: text/x-rst
 Created: 03-Jul-2015
 
+
+
+.. sectnum::
+
 PEP Status
 ==========
 

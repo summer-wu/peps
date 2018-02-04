@@ -11,6 +11,10 @@ Created: 19-Dec-2002
 Python-Version: 2.3
 Post-History: 19-Dec-2002
 
+
+
+.. sectnum::
+
 .. warning::
    The language reference for import [10]_ and importlib documentation
    [11]_ now supersede this PEP. This document is no longer updated

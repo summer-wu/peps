@@ -11,6 +11,10 @@ Python-Version: 3.0
 Post-History: 22-Apr-2007
 
 
+
+.. sectnum::
+
+
 Rejection Notice
 ================
 

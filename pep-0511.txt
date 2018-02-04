@@ -9,6 +9,10 @@ Content-Type: text/x-rst
 Created: 4-January-2016
 Python-Version: 3.6
 
+
+
+.. sectnum::
+
 Rejection Notice
 ================
 

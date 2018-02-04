@@ -11,6 +11,10 @@ Created: 01-Jun-2001
 Post-History: 13-Jun-2001
 
 
+
+.. sectnum::
+
+
 Rejection Notice
 ================
 

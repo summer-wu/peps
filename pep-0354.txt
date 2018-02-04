@@ -12,6 +12,10 @@ Post-History:   20-Dec-2005
 Superseded-By:  435
 
 
+
+.. sectnum::
+
+
 Rejection Notice
 ================
 

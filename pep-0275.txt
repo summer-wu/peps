@@ -10,6 +10,10 @@ Created: 10-Nov-2001
 Python-Version: 2.6
 Post-History:
 
+
+
+.. sectnum::
+
 Rejection Notice
 ================
 

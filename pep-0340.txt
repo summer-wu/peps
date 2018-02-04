@@ -9,6 +9,10 @@ Content-Type: text/x-rst
 Created: 27-Apr-2005
 Post-History:
 
+
+
+.. sectnum::
+
 Introduction
 ============
 

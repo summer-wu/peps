@@ -14,6 +14,10 @@ Replaces: 409
 Resolution: https://mail.python.org/pipermail/python-dev/2012-May/119467.html
 
 
+
+.. sectnum::
+
+
 Abstract
 ========
 

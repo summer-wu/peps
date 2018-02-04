@@ -12,6 +12,10 @@ Superseded-By: 415
 Resolution: https://mail.python.org/pipermail/python-dev/2012-February/116136.html
 
 
+
+.. sectnum::
+
+
 Abstract
 ========
 

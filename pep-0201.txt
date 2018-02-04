@@ -12,6 +12,10 @@ Post-History: 27-Jul-2000
 
 
 
+.. sectnum::
+
+
+
 Introduction
 ============
 

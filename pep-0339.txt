@@ -10,6 +10,10 @@ Created: 02-Feb-2005
 Post-History:
 
 
+
+.. sectnum::
+
+
 .. note::
     This PEP has been withdrawn and moved to the Python
     developer's guide.

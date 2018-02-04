@@ -10,6 +10,10 @@ Requires: 532
 Created: 12-Nov-2016
 Python-Version: 3.8
 
+
+
+.. sectnum::
+
 PEP Deferral
 ============
 

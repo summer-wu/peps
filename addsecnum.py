@@ -11,11 +11,11 @@ if len(filename)<8:
 
 def insertSectnum(text):
 	'text是immutable的，所以需要返回'
-	match='====\n'
+	match='\n\n'
 	titleEndAt=text.index(match)+len(match)
 	leftText=text[:titleEndAt]
 	rightText=text[titleEndAt:]
-	text=leftText+'.. sectnum::'+"\n"+rightText
+	text=leftText+"\n\n"+'.. sectnum::'+"\n\n"+rightText
 	return text
 
 f = open(filename,'r+')

@@ -1,3 +1,15 @@
+What's differenct after fork
+===============================
+All pep have no section num,and to add section num is extremelly simple: just insert `.. sectnum::` somewhere.
+
+I have just added a script `addsecnum.py`，then run
+
+:: 
+  for i in *.txt; do
+	./addsecnum.py $i
+  done
+
+
 Python Enhancement Proposals
 ============================
 
